@@ -136,7 +136,7 @@ Why does label smoothing help generalization? Any caveats?
 * **TTFT** (Time‑To‑First‑Token; streaming only, else `inf`)
 * **Total latency** (request start → done)
 * **Per‑request TPS** (response tokens ÷ total sec)
-* **Global TPS** *(wall‑clock throughput)*: $\texttt{sum(response_tokens)} / \texttt{wall_time}$
+* **Global TPS** *(wall‑clock throughput)*: $\texttt{sum(response tokens)} / \texttt{wall time}$
 
 ### CSV schema (`results.csv`)
 
