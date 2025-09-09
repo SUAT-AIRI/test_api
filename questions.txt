@@ -1,0 +1,10 @@
+Explain the difference between precision and recall with a small numerical example.
+给我一份关于Transformer位置编码(PE/ALiBi/RoPE)的直观解释，最好配图思路。
+Write a Python function that computes the Levenshtein distance and show its complexity.
+Summarize the main ideas behind variational autoencoders in 5 bullet points.
+设计一个小型数据库表结构来存储论文、作者、机构与引用关系，并给出3条示例SQL查询。
+What are the trade-offs between Mixture-of-Experts and dense LLMs? Provide a table.
+Provide a step-by-step guide to implement binary search on a rotated sorted array.
+比较RAG与Agentic RAG的架构差异、适用场景与评估指标。
+Why does label smoothing help generalization? Any caveats?
+用通俗比喻解释马尔可夫决策过程(MDP)以及价值迭代的核心思想。
